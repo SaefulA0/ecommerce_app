@@ -1,4 +1,4 @@
-# foot_fancy
+# ecommerce_app
 
 A new Flutter project.
 
